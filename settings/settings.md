@@ -56,7 +56,7 @@ $$
 
 #### 1.3.2. Get notifications from apps and other senders
 On
-FFTFFT
+FFTF
 #### 1.3.3. $\color{#ff0000}\bigstar$ Get notifications from this senders
 
 ### 1.4. Focus assist
