@@ -1,9 +1,5 @@
 # Start up
 
-##### None
-
-UWP
-
 ##### Folder
 
 `explorer C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`

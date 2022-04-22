@@ -36,20 +36,20 @@ On
 #### 1.3.1. Edit Quick Actions
 $$
 \begin{array}{|c|c|c|c|}
-	\hline	
-	\rm Wi-Fi&\rm Mobile\ hotspot&\rm Network&\rm Bluetooth\\
-	\hline
-	\rm Airplan\ mode&\rm Connect&\rm Nearby\ sharing&\rm Night\ mode\\
-	\hline
+    \hline	
+    \rm Wi-Fi&\rm Mobile\ hotspot&\rm Network&\rm Bluetooth\\
+    \hline
+    \rm Airplan\ mode&\rm Connect&\rm Nearby\ sharing&\rm Night\ mode\\
+    \hline
 \end{array}
 \rm\color{#007f00}(L,D)
 $$
 
 $$
 \begin{array}{|c|c|c|}
-	\hline	
-	\rm Wi-Fi&\rm Network&\rm Bluetooth\\
-	\hline
+    \hline	
+    \rm Wi-Fi&\rm Network&\rm Bluetooth\\
+    \hline
 \end{array}
 \rm\color{#007f00}(V)
 $$
