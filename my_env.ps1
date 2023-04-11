@@ -1,5 +1,4 @@
 echo "Please run this script in PowerShell as Administrator."
-[Environment]::SetEnvironmentVariable('JAVA_TOOL_OPTIONS', "-Duser.language=en -Dfile.encoding=UTF-8",'Machine');
 [Environment]::SetEnvironmentVariable('OPENCV460', "$Env:MY_PATH\OpenCV460", 'Machine');
 [Environment]::SetEnvironmentVariable('OPENCV470', "$Env:MY_PATH\OpenCV470", 'Machine');
 $oldPath = [Environment]::GetEnvironmentVariable('PATH', 'Machine');
