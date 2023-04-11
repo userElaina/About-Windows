@@ -1,3 +1,0 @@
-#### Folder Options
-
-#### Recycle Bin
